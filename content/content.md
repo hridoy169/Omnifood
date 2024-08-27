@@ -138,7 +138,6 @@ Privacy & terms
 - Diets
 - Meals (and list of diets)
 - Testimonials + Gallery
-- Pricing
-- Features
+- Pricing + features
 - CTA
 - Footer
