@@ -48,15 +48,3 @@ body {
   font-weight: 400;
   color: #555;
 }
-
-.test {
-  /* width: 1000px; */
-  /* max-width: 1000px; */
-  background-color: red;
-
-  max-width: 50rem;
-  padding: 4rem;
-  color: #fff;
-  font-size: 2rem;
-  /* 1 rem = 16px */
-}
